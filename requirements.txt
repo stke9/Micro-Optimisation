@@ -1,0 +1,4 @@
+numpy~=1.19.2
+matplotlib~=3.3.4
+tifffile~=2021.1.14
+taufactor~=0.1.3
